@@ -12,7 +12,7 @@
     * Como o jogo evolui?
         * Novas habilidades X Novos desafios
     * Como o jogo termina?
-        *Quais os possíveis finais da sua história?
+        * Quais os possíveis finais da sua história?
 * Sentidos
     * Quais os sentidos dos jogadores você gostaria de explorar no seu jogo?
     * O jogo vai ter elementos visuais, sonoros, táteis, degustativos, olfativos?
