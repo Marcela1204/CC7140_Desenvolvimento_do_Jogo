@@ -56,7 +56,7 @@ São Bernardo do Campo, SP \\
 \section*{Itens Iniciais}
 
 \textbf{Sistemas previstos:} PC \\[0.3cm]
-\textbf{Faixa etária:} 12+ \\[0.3cm]
+\textbf{Faixa etária:} 10+ \\[0.3cm]
 \textbf{Classificação indicativa (ESRB):} E10+ \\[0.3cm]
 \textbf{Data prevista de lançamento:} 2026 \\[2cm]
 
@@ -71,29 +71,39 @@ São Bernardo do Campo, SP \\
 
 \subsection*{Resumo da História}
 
-Cleitin é um jovem que acaba de se formar na faculdade e está prestes a receber seu diploma. Porém, professores e alunos invejosos decidem roubá-lo e rasgar o documento, espalhando suas páginas por diferentes regiões.
+Cleitin é um jovem recém-formado que está prestes a receber seu diploma. No entanto,
+o professor Chaflames rouba e destrói o documento em cinco partes, dando início ao
+conflito central do jogo.
 
-Determinado a recuperar o que é seu por direito, Cleitin inicia uma jornada por um bosque misterioso e um castelo antigo. Durante sua aventura ele enfrenta inimigos e chefes que guardam as páginas do diploma.
+Para recuperar seu diploma, Cleitin precisa enfrentar uma série de fases de batalha,
+cada uma representando um desafio progressivo. Em cada fase, o jogador enfrenta inimigos
+e deve vencer o combate para obter recompensas e avançar.
 
-Ao recuperar todas as páginas e derrotar o chefe final, Cleitin finalmente consegue reconstruir seu diploma e provar que merece sua formatura.
-
-\subsection*{Personagem Principal}
-
-O personagem principal é Cleitin, um jovem recém-formado que deseja apenas recuperar seu diploma. Apesar de não ser um herói tradicional, ele demonstra determinação e coragem ao enfrentar todos os desafios necessários para recuperar o documento.
-
-\subsection*{Ângulo de Câmera}
-
-O jogo utiliza uma câmera no estilo \textit{top-down}, onde o jogador visualiza o personagem e o ambiente a partir de uma visão superior.
+Ao vencer uma fase, Cleitin retorna ao castelo, que funciona como um hub central de
+progressão. Nesse local, o jogador pode se preparar estrategicamente para os próximos
+desafios, criando uma relação direta entre narrativa e jogabilidade.
 
 \subsection*{Fluxo do Jogo}
 
-O jogo começa com Cleitin no início da jornada. O jogador deve explorar o mapa, derrotar inimigos e coletar páginas do diploma espalhadas pelo cenário.
+O jogo inicia com uma cena de corte introdutória que apresenta o roubo do diploma.
+Após isso, o jogador entra no ciclo principal do jogo:
 
-Cada área possui um chefe que protege parte do diploma. Ao derrotar o chefe, o jogador desbloqueia a próxima região do jogo.
+\begin{itemize}
+\item Selecionar uma fase no mapa
+\item Participar de uma batalha
+\item Receber moedas e uma página do diploma ao vencer
+\item Retornar ao castelo
+\item Interagir com NPC obrigatório para obter instruções
+\item Gerenciar recursos (compras, descanso, personalização)
+\end{itemize}
+
+Esse ciclo se repete até que todas as fases sejam concluídas, culminando na batalha final
+contra Chaflames.
 
 \subsection*{Condição de Vitória}
 
-O jogador vence quando recupera todas as páginas do diploma e derrota o chefe final localizado no castelo.
+O jogador vence ao recuperar todas as páginas do diploma e derrotar o chefe final,
+Chaflames, na fase final do jogo.
 
 \newpage
 
@@ -112,16 +122,15 @@ Cleitin é um jovem estudante recém-formado. Sua personalidade é determinada e
 \begin{itemize}
     \item \textbf{Ataque principal:} ataque corpo a corpo utilizado para derrotar inimigos.
     \item \textbf{Habilidade especial:} um ataque mais forte que causa maior dano aos inimigos.
-    \item \textbf{Movimento único:} esquiva rápida que permite evitar ataques adversários.
 \end{itemize}
 
 \subsection*{Mapa de Controles}
 
 \begin{itemize}
 \item WASD – movimentação do personagem
-\item Botão esquerdo do mouse – ataque principal
-\item Barra de espaço – habilidade especial
-\item Shift – esquiva
+\item Botão esquerdo do mouse – habilidade especial
+\item Botão direito do mouse – seleção e interação com objetos e NPCs
+\item Barra de espaço – ataque principal
 \end{itemize}
 
 \newpage
@@ -133,10 +142,19 @@ Cleitin é um jovem estudante recém-formado. Sua personalidade é determinada e
 \section*{Gameplay}
 
 \begin{itemize}
-    \item \textbf{Gênero do jogo:} Ação e aventura.
-    \item \textbf{Estrutura:} o jogo é dividido em áreas exploráveis que incluem um bosque e um castelo final.
-    \item \textbf{Recursos específicos da plataforma:} controle por teclado e mouse no PC.
-    \item \textbf{Modo multiplayer:} o jogo não possui modo multiplayer.
+    \item \textbf{Gênero do jogo:} Ação e aventura com foco em combate por fases.
+    
+    \item \textbf{Estrutura:} o jogo é dividido em fases sequenciais organizadas em um mapa.
+    Cada fase representa uma batalha independente, e o progresso ocorre ao vencer essas fases.
+    
+    \item \textbf{Loop de gameplay:} o jogador alterna entre momentos de combate (fases)
+    e preparação (castelo), criando um ciclo contínuo de desafio e recompensa.
+    
+    \item \textbf{Recursos específicos da plataforma:} controle via teclado e mouse,
+    permitindo precisão durante o combate e facilidade na navegação de menus.
+    
+    \item \textbf{Modo multiplayer:} o jogo não possui modo multiplayer, sendo focado
+    na experiência individual do jogador.
 \end{itemize}
 
 \newpage
@@ -145,19 +163,26 @@ Cleitin é um jovem estudante recém-formado. Sua personalidade é determinada e
 % PÁGINA 5 – MUNDO DO JOGO
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section*{Mundo do Jogo}
-
 \subsection*{Ambientes}
 
 \begin{itemize}
-    \item \textbf{Cidade inicial:} área segura onde o jogador aprende os controles básicos.
-    \item \textbf{Floresta:} região com inimigos e obstáculos naturais.
-    \item \textbf{Fortaleza final:} castelo onde ocorre a batalha contra o chefe final.
+    \item \textbf{Castelo (Hub):} área central do jogo onde o jogador retorna após cada fase.
+    Nesse ambiente, é possível descansar, comprar habilidades, trocar roupas e interagir
+    com o NPC que orienta a progressão.
+    
+    \item \textbf{Mapa de Fases:} conjunto de etapas representadas visualmente como caminhos.
+    Cada fase corresponde a um combate com dificuldade progressiva.
+    
+    \item \textbf{Arena Final:} fase especial onde ocorre o confronto contra o chefe final,
+    Chaflames.
 \end{itemize}
 
 \subsection*{Atmosfera}
 
-O jogo possui uma atmosfera leve e humorística, com ambientação inspirada em aventuras fantásticas. A trilha sonora acompanha o clima de exploração e combate, criando uma sensação de progresso e desafio.
+O jogo apresenta uma atmosfera leve e humorística, com inspiração no ambiente acadêmico.
+O castelo transmite sensação de segurança e preparação, enquanto as fases possuem clima
+de desafio e tensão crescente. A trilha sonora acompanha essa variação, alternando entre
+momentos calmos e intensos.
 
 \newpage
 
@@ -167,11 +192,26 @@ O jogo possui uma atmosfera leve e humorística, com ambientação inspirada em 
 
 \section*{Experiência de Jogo}
 
+O jogo busca proporcionar uma experiência baseada em progressão, desafio e recompensa.
+
 \begin{itemize}
-    \item \textbf{Sensação principal:} aventura e superação de desafios.
-    \item \textbf{Emoções evocadas:} curiosidade ao explorar o mapa e satisfação ao derrotar inimigos e chefes.
-    \item \textbf{Interface e navegação:} interface simples com indicadores de vida, progresso e páginas coletadas.
-    \item \textbf{Design de som e trilha sonora:} trilhas diferentes para cada área e efeitos sonoros para ataques e interações.
+    \item \textbf{Sensação principal:} evolução constante do jogador através da superação
+    de desafios progressivos.
+    
+    \item \textbf{Fluxo do jogador:} o jogo equilibra momentos de tensão (batalhas) com
+    momentos de pausa (castelo), evitando frustração e mantendo o engajamento.
+    
+    \item \textbf{Decisões do jogador:} o jogador deve decidir como utilizar suas moedas,
+    escolhendo entre comprar habilidades, melhorias visuais ou economizar para fases futuras.
+    
+    \item \textbf{Empoderamento:} conforme avança, o jogador se torna mais forte e preparado,
+    aumentando a sensação de controle sobre o jogo.
+    
+    \item \textbf{Interface e navegação:} interface simples e intuitiva, com foco em facilitar
+    a compreensão das ações disponíveis no castelo e durante o combate.
+    
+    \item \textbf{Design de som:} efeitos sonoros reforçam ações como ataques e vitórias,
+    enquanto a trilha sonora varia entre momentos de calma e combate.
 \end{itemize}
 
 \newpage
@@ -185,16 +225,27 @@ O jogo possui uma atmosfera leve e humorística, com ambientação inspirada em 
 \subsection*{Mecânicas Principais}
 
 \begin{itemize}
-    \item Sistema de combate contra inimigos.
-    \item Coleta de páginas do diploma espalhadas pelo mapa.
-    \item Sistema de progressão baseado na derrota de chefes.
+    \item \textbf{Combate:} sistema de batalha direta onde o jogador deve atacar,
+    desviar e utilizar habilidades para derrotar inimigos.
+    
+    \item \textbf{Progressão por fases:} o jogador avança ao completar fases,
+    cada uma oferecendo um desafio maior que a anterior.
+    
+    \item \textbf{Sistema de moedas:} recompensas obtidas nas fases que podem ser
+    utilizadas no castelo.
+    
+    \item \textbf{Loja:} permite a compra de habilidades e roupas que impactam o desempenho
+    ou a estética do personagem.
+    
+    \item \textbf{Sistema de descanso:} alterna entre dia e noite, modificando a ambientação
+    e criando variação visual.
 \end{itemize}
 
-\subsection*{Perigos}
+\subsection*{Colecionáveis}
 
 \begin{itemize}
-    \item \textbf{Armadilhas:} espinhos e áreas perigosas no cenário.
-    \item \textbf{Obstáculos:} inimigos e caminhos bloqueados.
+    \item \textbf{Páginas do diploma:} principal objetivo do jogo. Cada fase concede uma página,
+    representando o progresso do jogador na história.
 \end{itemize}
 
 \newpage
@@ -203,26 +254,26 @@ O jogo possui uma atmosfera leve e humorística, com ambientação inspirada em 
 % PÁGINA 8 – INIMIGOS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section*{Inimigos}
-
 \subsection*{Inimigos Comuns}
 
-Os inimigos comuns são alunos invejosos que tentam impedir Cleitin de recuperar seu diploma. Eles atacam o jogador e bloqueiam o progresso em determinadas áreas.
+Os inimigos representam estudantes e obstáculos que tentam impedir o progresso de Cleitin.
+Aparecem em alguns momentos durante as batalahs. Eles possuem padrões simples de ataque, exigindo que o jogador utilize esquiva e timing
+correto para derrotá-los.
 
-\subsection*{Chefes (Boss)}
+\subsection*{Professores}
 
 \begin{itemize}
-    \item \textbf{Nome:} Guardião do Bosque
-    \item \textbf{Ambiente:} floresta
-    \item \textbf{Estratégia para derrotar:} desviar dos ataques e atacar nos momentos de vulnerabilidade.
-    \item \textbf{Recompensa:} páginas do diploma.
+    \item \textbf{Nome(s):} Fagfogos, Feitisac, Leopower e Magilu
+    \item \textbf{Função:} representam o desafio final de cada etapa
+    \item \textbf{Recompensa:} moedas e páginas do diploma
 \end{itemize}
 
+\subsection*{Boss}
 \begin{itemize}
-    \item \textbf{Nome:} Professor Supremo
-    \item \textbf{Ambiente:} castelo final
-    \item \textbf{Estratégia para derrotar:} batalha mais difícil com múltiplos padrões de ataque.
-    \item \textbf{Recompensa:} última página do diploma e conclusão do jogo.
+    \item \textbf{Nome:} Chaflames
+    \item \textbf{Ambiente:} arena final
+    \item \textbf{Estratégia:} utiliza múltiplos padrões de ataque, exigindo domínio das mecânicas
+    \item \textbf{Recompensa:} conclusão do jogo
 \end{itemize}
 
 \newpage
@@ -234,12 +285,16 @@ Os inimigos comuns são alunos invejosos que tentam impedir Cleitin de recuperar
 \section*{Cenas de Corte}
 
 \begin{itemize}
-    \item \textbf{Introdução:} mostra o momento em que o diploma de Cleitin é roubado.
-    \item \textbf{Transição de fases:} pequenas cenas após derrotar cada chefe.
-    \item \textbf{Final do jogo:} Cleitin recupera todas as páginas do diploma.
+    \item \textbf{Cutscene inicial:} apresenta o roubo do diploma por Chaflames,
+    estabelecendo o conflito principal.
+    
+    \item \textbf{Cutscene de vitória:} exibida ao derrotar o chefe final,
+    mostrando a recuperação do diploma.
+    
+    \item \textbf{Cutscene de derrota:} exibida caso o jogador perca na batalha final.
 \end{itemize}
 
-As cenas serão produzidas utilizando animações simples dentro do próprio jogo.
+As cenas são apresentadas por meio de animações simples dentro do jogo.
 
 \newpage
 
@@ -250,14 +305,15 @@ As cenas serão produzidas utilizando animações simples dentro do próprio jog
 \section*{Material Bônus}
 
 \begin{itemize}
-    \item Skins desbloqueáveis para o personagem Cleitin
-    \item Novo modo de jogo com maior dificuldade
-    \item Possível modo multiplayer em versões futuras
-    \item DLC com novas áreas e desafios
+    \item Skins desbloqueáveis para personalização do personagem
+    \item Novas habilidades adquiridas ao longo do jogo
+    \item Possíveis expansões futuras com novas fases
 \end{itemize}
 
 \subsection*{Incentivo para Replay}
 
-O jogador pode retornar ao jogo para completar desafios adicionais, desbloquear skins e melhorar seu desempenho nas batalhas contra chefes.
+O jogo incentiva a rejogabilidade através da possibilidade de melhorar o desempenho
+nas fases, testar diferentes combinações de habilidades e completar todos os conteúdos
+disponíveis.
 
 \end{document}
