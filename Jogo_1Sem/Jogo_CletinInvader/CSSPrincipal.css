@@ -1,0 +1,120 @@
+body{
+    background-color: white;
+}
+
+#cabecalho{
+    display: flex;
+    justify-content: right;
+    height: 125px;
+    width: auto;
+    background-color: black;
+    font-family: Poppins;
+    align-items: center;
+}
+a{
+    margin-right: 50px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+button{
+    font-family: "Poppins Medium";
+    font-size: 18px;
+    color: white;
+    background-color: indigo;
+    border-radius: 20px;
+    height: 50px;
+    width: 200px;
+    border: 1px solid mediumpurple;
+}
+
+button:hover{
+    color: mediumpurple;
+}
+
+#textotitulo{
+    text-align: center;
+    font-size: 80px;
+    font-family: "Poppins Black";
+}
+
+#principal{
+    display: flex;
+    justify-content: center;
+    height: 1000px;
+    width: 1000px;
+}
+
+#info1{
+    display: flex;
+    justify-content: left;
+    height: 500px;
+    width: 500px;
+}
+
+#info2{
+    display: flex;
+    justify-content: right;
+    height: 500px;
+    width: 500px;
+}
+
+#info3{
+    display: flex;
+    justify-content: left;
+    height: 500px;
+    width: 500px;
+}
+
+#info4{
+    display: flex;
+    justify-content: right;
+    height: 500px;
+    width: 500px;
+}
+
+.texto1{
+    font-family: Poppins;
+    font-size: 25px;
+    text-align: justify;
+    color: black;
+}
+
+#objetivos{
+    text-align: center;
+    font-size: 50px;
+    font-family: "Poppins Black";
+    margin-right: 50px;
+    color: black;
+}
+
+#principal2{
+    display: flex;
+    justify-content: center;
+    height: 250px;
+    width: 1000px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.texto2{
+    font-family: Poppins;
+    font-size: 25px;
+    text-align: justify;
+    color: black;
+}
+
+.gif{
+    display: flex;
+    justify-content: center;
+}
+
+#texto1{
+    font-size: 70px;
+    font-family: "Poppins Black";
+    color: #8C001A;
+}

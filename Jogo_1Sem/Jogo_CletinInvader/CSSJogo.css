@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+p{
+    position: absolute;
+    z-index: 10;
+    color: white;
+    left: 10px;
+    top: 10px;
+    margin: 0;
+    font-family: "sans-serif";
+    font-size: 25px;
+}
+
+div{
+    position: relative;
+}
+
+.botoes{
+    font-family: "Poppins Medium";
+    font-size: 15px;
+    color: white;
+    background-color: indigo;
+    border-radius: 20px;
+    height: 30px;
+    width: 100px;
+    border: 1px solid mediumpurple;
+}

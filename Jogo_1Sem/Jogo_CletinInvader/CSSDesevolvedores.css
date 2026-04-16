@@ -1,0 +1,81 @@
+#cabecalho{
+    display: flex;
+    justify-content: right;
+    height: 125px;
+    width: auto;
+    background-color: black;
+    font-family: Poppins;
+    align-items: center;
+}
+a{
+    margin-right: 50px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+button{
+    font-family: "Poppins Medium";
+    font-size: 18px;
+    color: white;
+    background-color: indigo;
+    border-radius: 20px;
+    height: 50px;
+    width: 200px;
+    border: 1px solid mediumpurple;
+}
+
+button:hover{
+    color: mediumpurple;
+}
+
+#inicio{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    font-size: 80px;
+    font-family: "Poppins Black";
+}
+
+#grandao{
+    height: 600px;
+    width: auto;
+    background-color: white;
+}
+
+.grandao2{
+    height: 350px;
+    width: auto;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    padding-top: 50px;
+
+}
+
+img{
+    border-radius: 20px;
+    border: 1px solid #c8b7e5;
+}
+
+p{
+    display: flex;
+    justify-content: left;
+    font-size: 20px;
+    font-family: Poppins;
+}
+
+.textofuncao{
+    font-family: "Poppins ExtraBold";
+    font-size: 30px;
+    text-align: center;
+    flex-direction: column;
+}
+
+#linha{
+    background-color: black;
+    border: 1px solid black;
+    height: 1px;
+    width: 1200px;
+}
