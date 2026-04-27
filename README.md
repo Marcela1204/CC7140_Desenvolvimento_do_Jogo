@@ -1,6 +1,6 @@
 <div align="center">
   
-# GRUPO C - A BATALHA DE CLEITIN 2: O RETORNO DO HOMI
+# GRUPO C - A BATALHA DE CLEITIN 2:<br>O RETORNO DO HOMI
 
 </div>
 
