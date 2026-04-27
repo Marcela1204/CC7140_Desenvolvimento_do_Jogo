@@ -16,7 +16,7 @@
 ---
 
 ## Nome: Inimigo
-- Descrição: adversário comum
+- Descrição: professores adversários
 - Quando utilizado: fases
 - Componentes:
   - Sprite
@@ -27,6 +27,20 @@
   - Ataque simples
   - Perseguição
 
+---
+
+## Nome: Inimigo
+- Descrição: estudantes adversários
+- Quando utilizado: fases
+- Componentes:
+  - Sprite
+  - Collider
+  - Áudio
+  - Scripts
+- Comportamento:
+  - Ataque simples
+  - Perseguição
+  - 
 ---
 
 ## Nome: Boss
@@ -51,15 +65,3 @@
   - Script
 - Comportamento:
   - Fornece instruções
-
----
-
-## Nome: Loja
-- Descrição: sistema de compra
-- Quando utilizado: castelo
-- Componentes:
-  - UI
-  - Scripts
-  - Áudio
-- Comportamento:
-  - Compra de itens
