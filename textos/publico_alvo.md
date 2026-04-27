@@ -1,4 +1,20 @@
-## Público Alvo
-* Determine o seu público alvo.
-* Que tipo de jogo mais agrada o seu público alvo?
-* Que desejos do público alvo o seu jogo satisfaz?
+# Público Alvo
+
+## Público alvo
+- Idade: 10+
+- Jogadores casuais e intermediários
+
+---
+
+## Tipo de jogo que agrada
+- Jogos de ação e aventura
+- Progressão por fases
+- Combate simples
+
+---
+
+## Desejos atendidos
+- Sensação de evolução
+- Superação de desafios
+- Personalização
+- Recompensas constantes

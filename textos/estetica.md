@@ -1,19 +1,78 @@
-## Estética
-* Personagens
-    * Quais os personagens que farão parte do jogo?
-    Ex: Protagonistas, Antagonistas, Personagens não jogaveis (NPCs) ...
-    * Qual o plano de fundo do(s) seu(s) personagem(s)?
-    * Quais as características mais importantes para serem adicionadas no(s) personagem(s)?
-* História
-    * Premissa
-        * Qual o plano de fundo do seu jogo? Onde se passa?
-        * O que deve ser contado antes do jogador assumir o controle?
-    * Como o Jogo começa?
-    * Como o jogo evolui?
-        * Novas habilidades X Novos desafios
-    * Como o jogo termina?
-        * Quais os possíveis finais da sua história?
-* Sentidos
-    * Quais os sentidos dos jogadores você gostaria de explorar no seu jogo?
-    * O jogo vai ter elementos visuais, sonoros, táteis, degustativos, olfativos?
-        * Como esses elementos são apresentados para o jogador?
+# Estética
+
+## Personagens
+
+**Quais os personagens**
+- Protagonista: Cleitin
+- Antagonista: Chaflames
+- Bosses: Fagfogos, Feitisac, Leopower, Magilu
+- NPC guia
+- Inimigos comuns
+
+---
+
+**Plano de fundo**
+- Cleitin: recém-formado
+- Chaflames: professor que destrói o diploma
+- Professores: desafios acadêmicos
+- NPC: orientador
+
+---
+
+**Características importantes**
+- Evolução de poder
+- Ataques e habilidades
+- Estilo humorístico
+- Personalização visual
+
+---
+
+## História
+
+### Premissa
+Recuperar um diploma destruído enfrentando desafios.
+
+---
+
+### Plano de fundo
+Ambiente acadêmico com elementos fantasiosos.
+
+---
+
+### O que acontece antes
+Cutscene do roubo do diploma.
+
+---
+
+### Como o jogo começa
+Após a introdução, o jogador entra no ciclo de fases.
+
+---
+
+### Evolução
+Fases mais difíceis, novos inimigos e habilidades.
+
+---
+
+### Novas habilidades X novos desafios
+Jogador fica mais forte, mas desafios aumentam.
+
+---
+
+### Como termina
+Batalha final contra Chaflames.
+
+---
+
+### Possíveis finais
+- Vitória: recuperação do diploma
+- Derrota: falha na batalha
+
+---
+
+## Sentidos
+
+- Visual: cenários, personagens, ciclo dia/noite
+- Sonoro: trilha e efeitos
+- Tátil: feedback de controle
+- Olfativo/degustativo: não aplicável

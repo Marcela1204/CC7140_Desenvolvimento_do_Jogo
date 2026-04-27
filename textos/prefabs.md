@@ -1,10 +1,65 @@
-## Prefabs
-* Nome
-* Descrição
-* Quando são utilizados
-* Quais seus componentes
-    * Sprites
-    * Colisores
-    * Fontes de audio
-    * Scripts
-        * Descreva o comportamento dos scripts
+# Prefabs
+
+## Nome: Jogador (Cleitin)
+- Descrição: personagem controlável
+- Quando utilizado: todo o jogo
+- Componentes:
+  - Sprite
+  - Collider
+  - Áudio
+  - Scripts
+- Comportamento:
+  - Movimento
+  - Ataque
+  - Uso de habilidades
+
+---
+
+## Nome: Inimigo
+- Descrição: adversário comum
+- Quando utilizado: fases
+- Componentes:
+  - Sprite
+  - Collider
+  - Áudio
+  - Scripts
+- Comportamento:
+  - Ataque simples
+  - Perseguição
+
+---
+
+## Nome: Boss
+- Descrição: inimigo principal
+- Quando utilizado: final de fases
+- Componentes:
+  - Sprite
+  - Collider
+  - Áudio
+  - Scripts
+- Comportamento:
+  - Múltiplos padrões de ataque
+
+---
+
+## Nome: NPC
+- Descrição: guia do jogador
+- Quando utilizado: castelo
+- Componentes:
+  - Sprite
+  - Collider
+  - Script
+- Comportamento:
+  - Fornece instruções
+
+---
+
+## Nome: Loja
+- Descrição: sistema de compra
+- Quando utilizado: castelo
+- Componentes:
+  - UI
+  - Scripts
+  - Áudio
+- Comportamento:
+  - Compra de itens
