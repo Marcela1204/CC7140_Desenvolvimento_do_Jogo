@@ -9,44 +9,52 @@ BlendTree:
   m_Name: Blend Tree
   m_Childs:
   - serializedVersion: 2
-    m_Motion: {fileID: 7400000, guid: 567eb832d37b2199d9c94a2f0dce8935, type: 2}
-    m_Threshold: 0
-    m_Position: {x: -0.01, y: 1}
-    m_TimeScale: 1
-    m_CycleOffset: 0
-    m_DirectBlendParameter: Blend
-    m_Mirror: 0
-  - serializedVersion: 2
-    m_Motion: {fileID: 7400000, guid: 803bf5693400018cc8a608eba3737354, type: 2}
-    m_Threshold: 0.16666667
-    m_Position: {x: 1, y: 0.01}
+    m_Motion: {fileID: 7400000, guid: cd5deb79880b25907ad91d98d95cb697, type: 2}
+    m_Threshold: 0.1875
+    m_Position: {x: 0, y: 1}
     m_TimeScale: 1
     m_CycleOffset: 0
     m_DirectBlendParameter: Blend
     m_Mirror: 0
   - serializedVersion: 2
     m_Motion: {fileID: 7400000, guid: 17a5f9cf067a992e6977160e9ac80d61, type: 2}
-    m_Threshold: 0.33333334
-    m_Position: {x: 0, y: -0.01}
+    m_Threshold: 0.21875
+    m_Position: {x: 1, y: 0}
     m_TimeScale: 1
     m_CycleOffset: 0
     m_DirectBlendParameter: Blend
     m_Mirror: 0
   - serializedVersion: 2
-    m_Motion: {fileID: 7400000, guid: cd5deb79880b25907ad91d98d95cb697, type: 2}
-    m_Threshold: 0.5
-    m_Position: {x: 0, y: 1}
+    m_Motion: {fileID: 7400000, guid: 17a5f9cf067a992e6977160e9ac80d61, type: 2}
+    m_Threshold: 0.25
+    m_Position: {x: 1, y: -1}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: Blend
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: 17a5f9cf067a992e6977160e9ac80d61, type: 2}
+    m_Threshold: 0.28125
+    m_Position: {x: -1, y: -1}
+    m_TimeScale: 1
+    m_CycleOffset: 0
+    m_DirectBlendParameter: Blend
+    m_Mirror: 0
+  - serializedVersion: 2
+    m_Motion: {fileID: 7400000, guid: 17a5f9cf067a992e6977160e9ac80d61, type: 2}
+    m_Threshold: 0.3125
+    m_Position: {x: 0, y: -1}
     m_TimeScale: 1
     m_CycleOffset: 0
     m_DirectBlendParameter: Blend
     m_Mirror: 0
   m_BlendParameter: Horizontal
   m_BlendParameterY: Vertical
-  m_MinThreshold: 0
-  m_MaxThreshold: 0.5
+  m_MinThreshold: 0.1875
+  m_MaxThreshold: 0.3125
   m_UseAutomaticThresholds: 1
   m_NormalizedBlendValues: 0
-  m_BlendType: 1
+  m_BlendType: 2
 --- !u!1107 &-2945228206241419172
 AnimatorStateMachine:
   serializedVersion: 6
