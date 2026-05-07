@@ -1,0 +1,1677 @@
+fileFormatVersion: 2
+guid: e4747af32cc4faa7e91a346d737c1b31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8844025065496287714
+    second: magilu-removebg-preview_0
+  - first:
+      213: 3328346544659168473
+    second: magilu-removebg-preview_1
+  - first:
+      213: -3492032004626195003
+    second: magilu-removebg-preview_2
+  - first:
+      213: 338282260842416078
+    second: magilu-removebg-preview_3
+  - first:
+      213: -276560511603229385
+    second: magilu-removebg-preview_4
+  - first:
+      213: 1450280998107393398
+    second: magilu-removebg-preview_5
+  - first:
+      213: -8532451412782672825
+    second: magilu-removebg-preview_6
+  - first:
+      213: -6530155808323195421
+    second: magilu-removebg-preview_7
+  - first:
+      213: -5342742271762026964
+    second: magilu-removebg-preview_8
+  - first:
+      213: -7717380314237026570
+    second: magilu-removebg-preview_9
+  - first:
+      213: -3761480411484785185
+    second: magilu-removebg-preview_10
+  - first:
+      213: -6979061742268313764
+    second: magilu-removebg-preview_11
+  - first:
+      213: 5286832267981278553
+    second: magilu-removebg-preview_12
+  - first:
+      213: 3201787436302554558
+    second: magilu-removebg-preview_13
+  - first:
+      213: -4020445203908604942
+    second: magilu-removebg-preview_14
+  - first:
+      213: -8955211341760079445
+    second: magilu-removebg-preview_15
+  - first:
+      213: -5084505453360627420
+    second: magilu-removebg-preview_16
+  - first:
+      213: 6625690620132215286
+    second: magilu-removebg-preview_17
+  - first:
+      213: 2238792749375313947
+    second: magilu-removebg-preview_18
+  - first:
+      213: 8111217601008712410
+    second: magilu-removebg-preview_19
+  - first:
+      213: -7254696492543246860
+    second: magilu-removebg-preview_20
+  - first:
+      213: -7183382624981562030
+    second: magilu-removebg-preview_21
+  - first:
+      213: 6374250607743712253
+    second: magilu-removebg-preview_22
+  - first:
+      213: -4683535053931037826
+    second: magilu-removebg-preview_23
+  - first:
+      213: -4399363983657978252
+    second: magilu-removebg-preview_24
+  - first:
+      213: 2269579092684416362
+    second: magilu-removebg-preview_25
+  - first:
+      213: -8485436140760255450
+    second: magilu-removebg-preview_26
+  - first:
+      213: 2683609292673768301
+    second: magilu-removebg-preview_27
+  - first:
+      213: 6661088067406425573
+    second: magilu-removebg-preview_28
+  - first:
+      213: -6964185961379136963
+    second: magilu-removebg-preview_29
+  - first:
+      213: 7073642072304620120
+    second: magilu-removebg-preview_30
+  - first:
+      213: -7888874071022941816
+    second: magilu-removebg-preview_31
+  - first:
+      213: 1426228814623127837
+    second: magilu-removebg-preview_32
+  - first:
+      213: 386530776528543336
+    second: magilu-removebg-preview_33
+  - first:
+      213: -5189298939459250623
+    second: magilu-removebg-preview_34
+  - first:
+      213: -2492654300958194036
+    second: magilu-removebg-preview_35
+  - first:
+      213: -1012329670606657738
+    second: magilu-removebg-preview_36
+  - first:
+      213: -911553497018479161
+    second: magilu-removebg-preview_37
+  - first:
+      213: 1946970014289568564
+    second: magilu-removebg-preview_38
+  - first:
+      213: 6184067247564916181
+    second: magilu-removebg-preview_39
+  - first:
+      213: -8722684394105149870
+    second: magilu-removebg-preview_40
+  - first:
+      213: -3789322567881597084
+    second: magilu-removebg-preview_41
+  - first:
+      213: -2538188467237067545
+    second: magilu-removebg-preview_42
+  - first:
+      213: 6078893194591256876
+    second: magilu-removebg-preview_43
+  - first:
+      213: 5493375904730838157
+    second: magilu-removebg-preview_44
+  - first:
+      213: -1996856834146509514
+    second: magilu-removebg-preview_45
+  - first:
+      213: -4642092926932753528
+    second: magilu-removebg-preview_46
+  - first:
+      213: -8503998350019892313
+    second: magilu-removebg-preview_47
+  - first:
+      213: -7467423447674390800
+    second: magilu-removebg-preview_48
+  - first:
+      213: -5987566584372187309
+    second: magilu-removebg-preview_49
+  - first:
+      213: -607817604924960450
+    second: magilu-removebg-preview_50
+  - first:
+      213: 5985003393597450595
+    second: magilu-removebg-preview_51
+  - first:
+      213: 4756758786601172811
+    second: magilu-removebg-preview_52
+  - first:
+      213: -2078041720550092144
+    second: magilu-removebg-preview_53
+  - first:
+      213: 4208579103370308906
+    second: magilu-removebg-preview_54
+  - first:
+      213: 4112699141082203049
+    second: magilu-removebg-preview_55
+  - first:
+      213: 441077497172279459
+    second: magilu-removebg-preview_56
+  - first:
+      213: 2134571207412518664
+    second: magilu-removebg-preview_57
+  - first:
+      213: 3651074743044225625
+    second: magilu-removebg-preview_58
+  - first:
+      213: 5099187639356366284
+    second: magilu-removebg-preview_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magilu-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 273
+        width: 107
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e99e8d70f94cba70800000000000000
+      internalID: 8844025065496287714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 326
+        width: 70
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcfecb4c89a03e20800000000000000
+      internalID: 3328346544659168473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 325
+        width: 84
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdd5f3b46fc98fc0800000000000000
+      internalID: -3492032004626195003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 325
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec704578ce1d1b400800000000000000
+      internalID: 338282260842416078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 326
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d3df21ea5792cf0800000000000000
+      internalID: -276560511603229385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 327
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67da0b442ee602410800000000000000
+      internalID: 1450280998107393398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 327
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7441fcd95a4a69980800000000000000
+      internalID: -8532451412782672825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 327
+        width: 84
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed21fcf3e93065a0800000000000000
+      internalID: -6530155808323195421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 335
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e292df534cad5b0800000000000000
+      internalID: -5342742271762026964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 327
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe3f4d1e7b56e490800000000000000
+      internalID: -7717380314237026570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 323
+        width: 105
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5fbd3be798ccbc0800000000000000
+      internalID: -3761480411484785185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 325
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f04927254652f90800000000000000
+      internalID: -6979061742268313764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 305
+        width: 164
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dc818dfe99e5940800000000000000
+      internalID: 5286832267981278553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 307
+        width: 68
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb55f13a5b80f6c20800000000000000
+      internalID: 3201787436302554558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 277
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbca1663628438c0800000000000000
+      internalID: -4020445203908604942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 277
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba957dd3bb2b8b380800000000000000
+      internalID: -8955211341760079445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 286
+        width: 68
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42147e1aa353079b0800000000000000
+      internalID: -5084505453360627420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 286
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f94e9cb38e23fb50800000000000000
+      internalID: 6625690620132215286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 286
+        width: 67
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b185c38d42ac11f10800000000000000
+      internalID: 2238792749375313947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 287
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada350cde65d09070800000000000000
+      internalID: 8111217601008712410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 286
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdffa02af3225b90800000000000000
+      internalID: -7254696492543246860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 251
+        width: 81
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dc240df8f7f4c90800000000000000
+      internalID: -7183382624981562030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 243
+        width: 142
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbb1efc723e57850800000000000000
+      internalID: 6374250607743712253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 250
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bb951deadb00fb0800000000000000
+      internalID: -4683535053931037826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 250
+        width: 61
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4763b6404c152f2c0800000000000000
+      internalID: -4399363983657978252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 243
+        width: 199
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65ab19f82a2f7f10800000000000000
+      internalID: 2269579092684416362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 169
+        width: 81
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62439b9a9ccad3a80800000000000000
+      internalID: -8485436140760255450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 169
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bd1cdee681e3520800000000000000
+      internalID: 2683609292673768301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 169
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed6a5b2e40f07c50800000000000000
+      internalID: 6661088067406425573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 171
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3afb3614cd3a5f90800000000000000
+      internalID: -6964185961379136963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 169
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85299fbacff9a2260800000000000000
+      internalID: 7073642072304620120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 169
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88943e654d6158290800000000000000
+      internalID: -7888874071022941816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 170
+        width: 140
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19b908ec8bfac310800000000000000
+      internalID: 1426228814623127837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 97
+        width: 83
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e5dbd71bb3d5500800000000000000
+      internalID: 386530776528543336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 98
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1465830db18ebf7b0800000000000000
+      internalID: -5189298939459250623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 97
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c868983be10586dd0800000000000000
+      internalID: -2492654300958194036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 97
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637e6e3378b73f1f0800000000000000
+      internalID: -1012329670606657738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 98
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdc2709ce28953f0800000000000000
+      internalID: -911553497018479161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 97
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433211a99e6050b10800000000000000
+      internalID: 1946970014289568564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 97
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d50c36a56832d550800000000000000
+      internalID: 6184067247564916181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 97
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256e48122ccc2f680800000000000000
+      internalID: -8722684394105149870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 97
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fdb02833f996bc0800000000000000
+      internalID: -3789322567881597084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 97
+        width: 113
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e46755790b86ccd0800000000000000
+      internalID: -2538188467237067545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 97
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21c62337219c5450800000000000000
+      internalID: 6078893194591256876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 121
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84fb2bb7446c3c40800000000000000
+      internalID: 5493375904730838157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 47
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dd2650a4db944e0800000000000000
+      internalID: -1996856834146509514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 47
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883e1dbe319f39fb0800000000000000
+      internalID: -4642092926932753528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 47
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab6e888e8abbf980800000000000000
+      internalID: -8503998350019892313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 47
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6f1fd30f16e5890800000000000000
+      internalID: -7467423447674390800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 47
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f2f7d3ae3e7eca0800000000000000
+      internalID: -5987566584372187309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 47
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e311832db199097f0800000000000000
+      internalID: -607817604924960450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 0
+        width: 73
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36922e660e00f0350800000000000000
+      internalID: 5985003393597450595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fb49df9e6630240800000000000000
+      internalID: 4756758786601172811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 0
+        width: 68
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0929b2aa0105923e0800000000000000
+      internalID: -2078041720550092144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2de4818560e76a30800000000000000
+      internalID: 4208579103370308906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3424c241e331930800000000000000
+      internalID: 4112699141082203049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a04f5195a50f1600800000000000000
+      internalID: 441077497172279459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f899524358f9d10800000000000000
+      internalID: 2134571207412518664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a3d8372293ba230800000000000000
+      internalID: 3651074743044225625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magilu-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd16ee2424f3c640800000000000000
+      internalID: 5099187639356366284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      magilu-removebg-preview_0: 8844025065496287714
+      magilu-removebg-preview_1: 3328346544659168473
+      magilu-removebg-preview_10: -3761480411484785185
+      magilu-removebg-preview_11: -6979061742268313764
+      magilu-removebg-preview_12: 5286832267981278553
+      magilu-removebg-preview_13: 3201787436302554558
+      magilu-removebg-preview_14: -4020445203908604942
+      magilu-removebg-preview_15: -8955211341760079445
+      magilu-removebg-preview_16: -5084505453360627420
+      magilu-removebg-preview_17: 6625690620132215286
+      magilu-removebg-preview_18: 2238792749375313947
+      magilu-removebg-preview_19: 8111217601008712410
+      magilu-removebg-preview_2: -3492032004626195003
+      magilu-removebg-preview_20: -7254696492543246860
+      magilu-removebg-preview_21: -7183382624981562030
+      magilu-removebg-preview_22: 6374250607743712253
+      magilu-removebg-preview_23: -4683535053931037826
+      magilu-removebg-preview_24: -4399363983657978252
+      magilu-removebg-preview_25: 2269579092684416362
+      magilu-removebg-preview_26: -8485436140760255450
+      magilu-removebg-preview_27: 2683609292673768301
+      magilu-removebg-preview_28: 6661088067406425573
+      magilu-removebg-preview_29: -6964185961379136963
+      magilu-removebg-preview_3: 338282260842416078
+      magilu-removebg-preview_30: 7073642072304620120
+      magilu-removebg-preview_31: -7888874071022941816
+      magilu-removebg-preview_32: 1426228814623127837
+      magilu-removebg-preview_33: 386530776528543336
+      magilu-removebg-preview_34: -5189298939459250623
+      magilu-removebg-preview_35: -2492654300958194036
+      magilu-removebg-preview_36: -1012329670606657738
+      magilu-removebg-preview_37: -911553497018479161
+      magilu-removebg-preview_38: 1946970014289568564
+      magilu-removebg-preview_39: 6184067247564916181
+      magilu-removebg-preview_4: -276560511603229385
+      magilu-removebg-preview_40: -8722684394105149870
+      magilu-removebg-preview_41: -3789322567881597084
+      magilu-removebg-preview_42: -2538188467237067545
+      magilu-removebg-preview_43: 6078893194591256876
+      magilu-removebg-preview_44: 5493375904730838157
+      magilu-removebg-preview_45: -1996856834146509514
+      magilu-removebg-preview_46: -4642092926932753528
+      magilu-removebg-preview_47: -8503998350019892313
+      magilu-removebg-preview_48: -7467423447674390800
+      magilu-removebg-preview_49: -5987566584372187309
+      magilu-removebg-preview_5: 1450280998107393398
+      magilu-removebg-preview_50: -607817604924960450
+      magilu-removebg-preview_51: 5985003393597450595
+      magilu-removebg-preview_52: 4756758786601172811
+      magilu-removebg-preview_53: -2078041720550092144
+      magilu-removebg-preview_54: 4208579103370308906
+      magilu-removebg-preview_55: 4112699141082203049
+      magilu-removebg-preview_56: 441077497172279459
+      magilu-removebg-preview_57: 2134571207412518664
+      magilu-removebg-preview_58: 3651074743044225625
+      magilu-removebg-preview_59: 5099187639356366284
+      magilu-removebg-preview_6: -8532451412782672825
+      magilu-removebg-preview_7: -6530155808323195421
+      magilu-removebg-preview_8: -5342742271762026964
+      magilu-removebg-preview_9: -7717380314237026570
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

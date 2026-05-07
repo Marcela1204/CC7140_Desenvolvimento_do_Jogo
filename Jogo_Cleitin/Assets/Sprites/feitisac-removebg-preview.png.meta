@@ -1,0 +1,1599 @@
+fileFormatVersion: 2
+guid: 1ebaaa343650906588af31dc9d2ebd96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6676519326904605501
+    second: feitisac-removebg-preview_0
+  - first:
+      213: -5777803312310621038
+    second: feitisac-removebg-preview_1
+  - first:
+      213: -7995055679109215855
+    second: feitisac-removebg-preview_2
+  - first:
+      213: 7028436468163090311
+    second: feitisac-removebg-preview_3
+  - first:
+      213: 2180119797517353125
+    second: feitisac-removebg-preview_4
+  - first:
+      213: 1439671159544832131
+    second: feitisac-removebg-preview_5
+  - first:
+      213: 6582623010389426827
+    second: feitisac-removebg-preview_6
+  - first:
+      213: 5236620084464744016
+    second: feitisac-removebg-preview_7
+  - first:
+      213: 3064474945579007922
+    second: feitisac-removebg-preview_8
+  - first:
+      213: -2906735643683848257
+    second: feitisac-removebg-preview_9
+  - first:
+      213: 6290793341561543037
+    second: feitisac-removebg-preview_10
+  - first:
+      213: 7210439104183805935
+    second: feitisac-removebg-preview_11
+  - first:
+      213: 6639794998724900584
+    second: feitisac-removebg-preview_12
+  - first:
+      213: 4864058651087596686
+    second: feitisac-removebg-preview_13
+  - first:
+      213: 6414482821844900898
+    second: feitisac-removebg-preview_14
+  - first:
+      213: -7405537613032287121
+    second: feitisac-removebg-preview_15
+  - first:
+      213: 5723428789714419919
+    second: feitisac-removebg-preview_16
+  - first:
+      213: 4768936236116168023
+    second: feitisac-removebg-preview_17
+  - first:
+      213: 4366650854641603274
+    second: feitisac-removebg-preview_18
+  - first:
+      213: 6660538545748295715
+    second: feitisac-removebg-preview_19
+  - first:
+      213: -4508310155676195802
+    second: feitisac-removebg-preview_20
+  - first:
+      213: 1608246621185143299
+    second: feitisac-removebg-preview_21
+  - first:
+      213: -4228419373723831200
+    second: feitisac-removebg-preview_22
+  - first:
+      213: 6701035761115501874
+    second: feitisac-removebg-preview_23
+  - first:
+      213: -7982519297372257979
+    second: feitisac-removebg-preview_24
+  - first:
+      213: 9193224601263644883
+    second: feitisac-removebg-preview_25
+  - first:
+      213: -180079812793411007
+    second: feitisac-removebg-preview_26
+  - first:
+      213: 1662381642048447046
+    second: feitisac-removebg-preview_27
+  - first:
+      213: -995329684226491706
+    second: feitisac-removebg-preview_28
+  - first:
+      213: -8322289719346001494
+    second: feitisac-removebg-preview_29
+  - first:
+      213: -6994356361607342737
+    second: feitisac-removebg-preview_30
+  - first:
+      213: -7363032564615155980
+    second: feitisac-removebg-preview_31
+  - first:
+      213: 8691257895930552604
+    second: feitisac-removebg-preview_32
+  - first:
+      213: -5610498537269528191
+    second: feitisac-removebg-preview_33
+  - first:
+      213: -8062267349082557330
+    second: feitisac-removebg-preview_34
+  - first:
+      213: -2035072454619503450
+    second: feitisac-removebg-preview_35
+  - first:
+      213: -347446725040523332
+    second: feitisac-removebg-preview_36
+  - first:
+      213: 8258685733766467609
+    second: feitisac-removebg-preview_37
+  - first:
+      213: -6424478410013453034
+    second: feitisac-removebg-preview_38
+  - first:
+      213: 5001724315787250060
+    second: feitisac-removebg-preview_39
+  - first:
+      213: 2323280189494722039
+    second: feitisac-removebg-preview_40
+  - first:
+      213: 4154401590279060037
+    second: feitisac-removebg-preview_41
+  - first:
+      213: -4478009496780330685
+    second: feitisac-removebg-preview_42
+  - first:
+      213: 2659806292116661941
+    second: feitisac-removebg-preview_43
+  - first:
+      213: -2890058724345946108
+    second: feitisac-removebg-preview_44
+  - first:
+      213: -702537844970081807
+    second: feitisac-removebg-preview_45
+  - first:
+      213: -1331641776296826367
+    second: feitisac-removebg-preview_46
+  - first:
+      213: -168207685939931418
+    second: feitisac-removebg-preview_47
+  - first:
+      213: -2701238606824911110
+    second: feitisac-removebg-preview_48
+  - first:
+      213: 1589612222211127833
+    second: feitisac-removebg-preview_49
+  - first:
+      213: 6481321188828413824
+    second: feitisac-removebg-preview_50
+  - first:
+      213: 7457287490691826169
+    second: feitisac-removebg-preview_51
+  - first:
+      213: -4910736795301738602
+    second: feitisac-removebg-preview_52
+  - first:
+      213: -8532853696287102628
+    second: feitisac-removebg-preview_53
+  - first:
+      213: 4403135957417395284
+    second: feitisac-removebg-preview_54
+  - first:
+      213: -1176987334420889710
+    second: feitisac-removebg-preview_55
+  - first:
+      213: 1058731593573561357
+    second: feitisac-removebg-preview_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 273
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bdd2044f2c7ac50800000000000000
+      internalID: 6676519326904605501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 327
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c66a3ef7e11dfa0800000000000000
+      internalID: -5777803312310621038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 327
+        width: 60
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199c93f283bdb0190800000000000000
+      internalID: -7995055679109215855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 327
+        width: 72
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7871343cab50a8160800000000000000
+      internalID: 7028436468163090311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 308
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a081d2b767514e10800000000000000
+      internalID: 2180119797517353125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 311
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3806b0aba4dbaf310800000000000000
+      internalID: 1439671159544832131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 305
+        width: 164
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82039070cc2a5b50800000000000000
+      internalID: 6582623010389426827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 311
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0567236d8363ca840800000000000000
+      internalID: 5236620084464744016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 308
+        width: 56
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf325a0ab3378a20800000000000000
+      internalID: 3064474945579007922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 278
+        width: 71
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbff146255339a7d0800000000000000
+      internalID: -2906735643683848257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 287
+        width: 68
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d791b2fc6336d4750800000000000000
+      internalID: 6290793341561543037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 287
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe72677a920a01460800000000000000
+      internalID: 7210439104183805935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 287
+        width: 68
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6b9684f5a452c50800000000000000
+      internalID: 6639794998724900584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 287
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cedb0829b908340800000000000000
+      internalID: 4864058651087596686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 287
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c19ed1422d40950800000000000000
+      internalID: 6414482821844900898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 251
+        width: 81
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f649a64f6ce3a3990800000000000000
+      internalID: -7405537613032287121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 244
+        width: 143
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc00c240924bd6f40800000000000000
+      internalID: 5723428789714419919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 250
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d41366d3aae2240800000000000000
+      internalID: 4768936236116168023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 250
+        width: 62
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2911911d5799c30800000000000000
+      internalID: 4366650854641603274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 244
+        width: 201
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320cf10b48cfe6c50800000000000000
+      internalID: 6660538545748295715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 170
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62462a9acc34f61c0800000000000000
+      internalID: -4508310155676195802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 170
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30276f6f7c3a15610800000000000000
+      internalID: 1608246621185143299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 170
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064bfc39bf2a155c0800000000000000
+      internalID: -4228419373723831200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 171
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2359a78658cdefc50800000000000000
+      internalID: 6701035761115501874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 170
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5410d630ef4683190800000000000000
+      internalID: -7982519297372257979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 170
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0a3ba2115e49f70800000000000000
+      internalID: 9193224601263644883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 170
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ada374d5a308df0800000000000000
+      internalID: -180079812793411007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 173
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642ad67bb47f11710800000000000000
+      internalID: 1662381642048447046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 97
+        width: 82
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca3749fce0ef22f0800000000000000
+      internalID: -995329684226491706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 97
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa90f78f799418c80800000000000000
+      internalID: -8322289719346001494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 97
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6596e162fd0fee90800000000000000
+      internalID: -6994356361607342737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 97
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4feea7cb4e041d990800000000000000
+      internalID: -7363032564615155980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 97
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11ef32120d8d9870800000000000000
+      internalID: 8691257895930552604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 98
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18973395e418322b0800000000000000
+      internalID: -5610498537269528191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 97
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6434bdcf821d1090800000000000000
+      internalID: -8062267349082557330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 97
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4e8328268f1c3e0800000000000000
+      internalID: -2035072454619503450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 97
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7369f5b0f9d2bf0800000000000000
+      internalID: -347446725040523332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 97
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9109cb02beebc9270800000000000000
+      internalID: 8258685733766467609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 97
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6155bf7aceaa7d6a0800000000000000
+      internalID: -6424478410013453034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 97
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89cee2d3c1b96540800000000000000
+      internalID: 5001724315787250060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 97
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdf888e503fd3020800000000000000
+      internalID: 2323280189494722039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 121
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ab6e24c3667a930800000000000000
+      internalID: 4154401590279060037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 48
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3492593961aead1c0800000000000000
+      internalID: -4478009496780330685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b666fcfab789e420800000000000000
+      internalID: 2659806292116661941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 48
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400675307e274e7d0800000000000000
+      internalID: -2890058724345946108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 48
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f13a4d5d851046f0800000000000000
+      internalID: -702537844970081807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 46
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ae1cb1cde058de0800000000000000
+      internalID: -1331641776296826367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 48
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e65f0730086aadf0800000000000000
+      internalID: -168207685939931418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe41a28cc5438ad0800000000000000
+      internalID: -2701238606824911110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a738bd4ef6f0610800000000000000
+      internalID: 1589612222211127833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 0
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f745f184742f950800000000000000
+      internalID: 6481321188828413824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f186ae567b9d7760800000000000000
+      internalID: 7457287490691826169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697899227ee89dbb0800000000000000
+      internalID: -4910736795301738602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59ad60b5c6359980800000000000000
+      internalID: -8532853696287102628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4540d9f03d41b1d30800000000000000
+      internalID: 4403135957417395284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f75ba51408aafe0800000000000000
+      internalID: -1176987334420889710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: feitisac-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d047f6366ce51be00800000000000000
+      internalID: 1058731593573561357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      feitisac-removebg-preview_0: 6676519326904605501
+      feitisac-removebg-preview_1: -5777803312310621038
+      feitisac-removebg-preview_10: 6290793341561543037
+      feitisac-removebg-preview_11: 7210439104183805935
+      feitisac-removebg-preview_12: 6639794998724900584
+      feitisac-removebg-preview_13: 4864058651087596686
+      feitisac-removebg-preview_14: 6414482821844900898
+      feitisac-removebg-preview_15: -7405537613032287121
+      feitisac-removebg-preview_16: 5723428789714419919
+      feitisac-removebg-preview_17: 4768936236116168023
+      feitisac-removebg-preview_18: 4366650854641603274
+      feitisac-removebg-preview_19: 6660538545748295715
+      feitisac-removebg-preview_2: -7995055679109215855
+      feitisac-removebg-preview_20: -4508310155676195802
+      feitisac-removebg-preview_21: 1608246621185143299
+      feitisac-removebg-preview_22: -4228419373723831200
+      feitisac-removebg-preview_23: 6701035761115501874
+      feitisac-removebg-preview_24: -7982519297372257979
+      feitisac-removebg-preview_25: 9193224601263644883
+      feitisac-removebg-preview_26: -180079812793411007
+      feitisac-removebg-preview_27: 1662381642048447046
+      feitisac-removebg-preview_28: -995329684226491706
+      feitisac-removebg-preview_29: -8322289719346001494
+      feitisac-removebg-preview_3: 7028436468163090311
+      feitisac-removebg-preview_30: -6994356361607342737
+      feitisac-removebg-preview_31: -7363032564615155980
+      feitisac-removebg-preview_32: 8691257895930552604
+      feitisac-removebg-preview_33: -5610498537269528191
+      feitisac-removebg-preview_34: -8062267349082557330
+      feitisac-removebg-preview_35: -2035072454619503450
+      feitisac-removebg-preview_36: -347446725040523332
+      feitisac-removebg-preview_37: 8258685733766467609
+      feitisac-removebg-preview_38: -6424478410013453034
+      feitisac-removebg-preview_39: 5001724315787250060
+      feitisac-removebg-preview_4: 2180119797517353125
+      feitisac-removebg-preview_40: 2323280189494722039
+      feitisac-removebg-preview_41: 4154401590279060037
+      feitisac-removebg-preview_42: -4478009496780330685
+      feitisac-removebg-preview_43: 2659806292116661941
+      feitisac-removebg-preview_44: -2890058724345946108
+      feitisac-removebg-preview_45: -702537844970081807
+      feitisac-removebg-preview_46: -1331641776296826367
+      feitisac-removebg-preview_47: -168207685939931418
+      feitisac-removebg-preview_48: -2701238606824911110
+      feitisac-removebg-preview_49: 1589612222211127833
+      feitisac-removebg-preview_5: 1439671159544832131
+      feitisac-removebg-preview_50: 6481321188828413824
+      feitisac-removebg-preview_51: 7457287490691826169
+      feitisac-removebg-preview_52: -4910736795301738602
+      feitisac-removebg-preview_53: -8532853696287102628
+      feitisac-removebg-preview_54: 4403135957417395284
+      feitisac-removebg-preview_55: -1176987334420889710
+      feitisac-removebg-preview_56: 1058731593573561357
+      feitisac-removebg-preview_6: 6582623010389426827
+      feitisac-removebg-preview_7: 5236620084464744016
+      feitisac-removebg-preview_8: 3064474945579007922
+      feitisac-removebg-preview_9: -2906735643683848257
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
