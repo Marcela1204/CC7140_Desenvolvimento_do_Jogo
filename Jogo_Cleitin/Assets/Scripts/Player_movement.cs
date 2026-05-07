@@ -7,6 +7,10 @@ public class MovimentoPlayer : MonoBehaviour
     public Animator animator;
     public SpriteRenderer spriteRenderer;
 
+    public float velocidadeCaminhada = 5f;
+	public float velocidadeCorrida = 10f;
+	private float velocidadeAtual;
+
     Vector2 input;
 
     void Update()
@@ -25,6 +29,22 @@ public class MovimentoPlayer : MonoBehaviour
         animator.SetFloat("Horizontal", Mathf.Abs(input.x)); 
         animator.SetFloat("Vertical", input.y);
         animator.SetFloat("Speed", input.sqrMagnitude);
+
+	if (Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift))
+    {
+        velocidadeAtual = velocidadeCorrida;
+    }
+    else
+    {
+        velocidadeAtual = velocidadeCaminhada;
+    }
+
+    // Aplica o movimento usando a velocidadeAtual
+    float moveX = Input.GetAxisRaw("Horizontal");
+    float moveY = Input.GetAxisRaw("Vertical");
+    Vector2 movimento = new Vector2(moveX, moveY).normalized;
+
+    transform.Translate(movimento * velocidadeAtual * Time.deltaTime);
     }
 
     void FixedUpdate()

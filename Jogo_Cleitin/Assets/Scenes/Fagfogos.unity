@@ -886,6 +886,8 @@ MonoBehaviour:
   rb: {fileID: 1502307411}
   animator: {fileID: 1502307412}
   spriteRenderer: {fileID: 1502307413}
+  velocidadeCaminhada: 5
+  velocidadeCorrida: 10
 --- !u!61 &1502307410
 BoxCollider2D:
   m_ObjectHideFlags: 0
