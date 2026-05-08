@@ -20,6 +20,27 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Cut Scenes/Vitoria.unity
     guid: 9159dca24291d2346a4aedcba0770f9d
+  - enabled: 1
+    path: Assets/Scenes/Principal.unity
+    guid: 36fdcc77bacb759bdb97baa121351970
+  - enabled: 1
+    path: Assets/Scenes/Magilu.unity
+    guid: 0e7e9a9df527b7b04a32584a04cb2944
+  - enabled: 1
+    path: Assets/Scenes/Leopower.unity
+    guid: 0fc2ba8930e20371b958aa5d77d2bfde
+  - enabled: 1
+    path: Assets/Scenes/Feitisac.unity
+    guid: 553e95e3a756ba1c090a878ec8f6fdb5
+  - enabled: 1
+    path: Assets/Scenes/Fagfogos.unity
+    guid: fb9e72e35f077a05387c733c468189cc
+  - enabled: 1
+    path: Assets/Scenes/Castelo.unity
+    guid: 3dcb0b023b69563a8bba7a6ae1ce89a8
+  - enabled: 1
+    path: Assets/Scenes/Boss.unity
+    guid: 39fccf449256467ba81485b78ca02672
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
