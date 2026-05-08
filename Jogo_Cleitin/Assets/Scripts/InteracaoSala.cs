@@ -4,6 +4,7 @@ public class InteracaoSala : MonoBehaviour
 {
     [Header("Configurações de UI")]
     public GameObject imagemNoite; // Arraste a 'ImagemNoite' da UI para cá
+    public GameObject avisoInteracao;
 
     private bool jogadorEstaNoTrigger = false;
     private bool noiteAtivada = false;
@@ -35,6 +36,10 @@ public class InteracaoSala : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             jogadorEstaNoTrigger = true;
+	    if (avisoInteracao != null)
+            {
+                avisoInteracao.SetActive(true);
+            }
         }
     }
 
@@ -44,6 +49,11 @@ public class InteracaoSala : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             jogadorEstaNoTrigger = false;
+
+	    if (avisoInteracao != null)
+            {
+                avisoInteracao.SetActive(false);
+            }
             
             // Opcional: Desativar a imagem automaticamente ao sair da frente da sala
             // noiteAtivada = false;
