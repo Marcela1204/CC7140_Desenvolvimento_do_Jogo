@@ -1,3 +1,5 @@
+
+
 using UnityEngine;
 
 public class MovimentoPlayer : MonoBehaviour
@@ -5,54 +7,80 @@ public class MovimentoPlayer : MonoBehaviour
     public float velocidade = 5f;
     public Rigidbody2D rb;
     public Animator animator;
-    public SpriteRenderer spriteRenderer;
+    // Removido o SpriteRenderer daqui se não for mais usar o flipX especificamente
+
+    public GameObject projetilPrefab;
+    public Transform pontoDeDisparo;
 
     public float velocidadeCaminhada = 5f;
-	public float velocidadeCorrida = 10f;
-	private float velocidadeAtual;
+    public float velocidadeCorrida = 10f;
+    private float velocidadeAtual;
 
     Vector2 input;
+    private bool olhandoParaDireita = true; // Variável para controlar o estado da face
 
     void Update()
     {
-        // Pega as teclas (Setas ou WASD)
         input.x = Input.GetAxisRaw("Horizontal");
         input.y = Input.GetAxisRaw("Vertical");
 
-        // Configura o Flip (Espelhamento) para a Esquerda
-        if (input.x < 0) spriteRenderer.flipX = true;
-        else if (input.x > 0) spriteRenderer.flipX = false;
+        // Lógica de Flip usando Escala (Inverte o objeto inteiro)
+        if (input.x < 0 && olhandoParaDireita)
+        {
+            Flip();
+        }
+        else if (input.x > 0 && !olhandoParaDireita)
+        {
+            Flip();
+        }
 
-        // Atualiza os parâmetros do Animator
-        // Usamos Abs(input.x) para que, mesmo indo para a esquerda (-1), 
-        // o Animator entenda que deve tocar a animação da direita (1) espelhada.
-        animator.SetFloat("Horizontal", Mathf.Abs(input.x)); 
+        // Atualiza Animator
+        animator.SetFloat("Horizontal", Mathf.Abs(input.x));
         animator.SetFloat("Vertical", input.y);
         animator.SetFloat("Speed", input.sqrMagnitude);
 
-	if (Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift))
-    {
-        velocidadeAtual = velocidadeCorrida;
-    }
-    else
-    {
-        velocidadeAtual = velocidadeCaminhada;
+        // Velocidade de Corrida
+        velocidadeAtual = (Input.GetKey(KeyCode.LeftShift)) ? velocidadeCorrida : velocidadeCaminhada;
+
+        if (Input.GetButtonDown("Fire1"))
+        {
+            Atirar();
+        }
     }
 
-    // Aplica o movimento usando a velocidadeAtual
-    float moveX = Input.GetAxisRaw("Horizontal");
-    float moveY = Input.GetAxisRaw("Vertical");
-    Vector2 movimento = new Vector2(moveX, moveY).normalized;
+    void Flip()
+    {
+        olhandoParaDireita = !olhandoParaDireita;
 
-    transform.Translate(movimento * velocidadeAtual * Time.deltaTime);
+        // Inverte o eixo X da escala local do Player
+        Vector3 escala = transform.localScale;
+        escala.x *= -1;
+        transform.localScale = escala;
+    }
+
+    void Atirar()
+    {
+        // Agora o pontoDeDisparo.rotation sempre estará correto pois o Player girou
+        // Instantiate(projetilPrefab, pontoDeDisparo.position, pontoDeDisparo.rotation);
+        // Instancia o projétil
+        GameObject bala = Instantiate(projetilPrefab, pontoDeDisparo.position, Quaternion.identity);
+
+        // Verifica para onde o player está olhando através da escala
+        if (transform.localScale.x < 0)
+        {
+            // Se a escala for negativa, o player está para a esquerda. 
+            // Giramos o projétil em 180 graus no eixo Z.
+            bala.transform.rotation = Quaternion.Euler(0, 0, 180);
+        }
+        else
+        {
+            // Se for positiva, ele está para a direita (rotação zero).
+            bala.transform.rotation = Quaternion.Euler(0, 0, 0);
+        }
     }
 
     void FixedUpdate()
     {
-        // Move o personagem fisicamente
-        rb.MovePosition(rb.position + input.normalized * velocidade * Time.fixedDeltaTime);
-	float velocidadeAtual = input.sqrMagnitude; 
-	
-	animator.SetFloat("Speed", velocidadeAtual);
+        rb.MovePosition(rb.position + input.normalized * velocidadeAtual * Time.fixedDeltaTime);
     }
 }

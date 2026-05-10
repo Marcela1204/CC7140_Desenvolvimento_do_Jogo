@@ -5,26 +5,56 @@ public class InimigoIA : MonoBehaviour
     public Transform player;
     public float velocidade = 3f;
     public float distanciaDetecao = 5f;
-    
+
     private Animator anim;
     private SpriteRenderer sprite;
 
-    void Start() {
+    public GameObject projetilPrefab;
+    public Transform pontoDeDisparo;
+    public float intervaloAtaque = 1.5f;
+    private float tempoUltimoAtaque;
+
+    public float distanciaParaAtirar = 5f;
+
+    void Start()
+    {
         anim = GetComponent<Animator>();
         sprite = GetComponent<SpriteRenderer>();
     }
 
-    void Update() {
+    void Update()
+    {
         float distancia = Vector2.Distance(transform.position, player.position);
 
-        if (distancia < distanciaDetecao) {
+        if (distancia < distanciaDetecao)
+        {
             SeguirPlayer();
-        } else {
+        }
+        else
+        {
             Parar();
+        }
+        float distanciashoot = Vector2.Distance(transform.position, player.position);
+
+        if (distanciashoot <= distanciaParaAtirar && Time.time >= tempoUltimoAtaque + intervaloAtaque)
+        {
+            Atirar();
+            tempoUltimoAtaque = Time.time;
         }
     }
 
-    void SeguirPlayer() {
+    void Atirar()
+    {
+        // Faz o inimigo "olhar" para o player antes de atirar (opcional, dependendo do seu setup)
+        Vector2 direcao = (player.position - transform.position).normalized;
+        float angulo = Mathf.Atan2(direcao.y, direcao.x) * Mathf.Rad2Deg;
+        pontoDeDisparo.rotation = Quaternion.Euler(0, 0, angulo);
+
+        Instantiate(projetilPrefab, pontoDeDisparo.position, pontoDeDisparo.rotation);
+    }
+
+    void SeguirPlayer()
+    {
         // Calcula a direção para o player
         Vector2 direcao = (player.position - transform.position).normalized;
 
@@ -40,7 +70,8 @@ public class InimigoIA : MonoBehaviour
         sprite.flipX = direcao.x < 0;
     }
 
-    void Parar() {
+    void Parar()
+    {
         anim.SetFloat("Horizontal", 0);
         anim.SetFloat("Vertical", 0);
     }

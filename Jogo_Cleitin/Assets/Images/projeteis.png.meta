@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 3a00f5c4afd0ee1879079737e3c8ea13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -95709887965068731
+    second: projeteis_0
+  - first:
+      213: -3135943071720320773
+    second: projeteis_1
+  - first:
+      213: 2874605347118515738
+    second: projeteis_2
+  - first:
+      213: -9177032662442856985
+    second: projeteis_3
+  - first:
+      213: -7922287030163350183
+    second: projeteis_4
+  - first:
+      213: -6013544953692150932
+    second: projeteis_5
+  - first:
+      213: -8044012001241584106
+    second: projeteis_6
+  - first:
+      213: -2645520660584540411
+    second: projeteis_7
+  - first:
+      213: 1011444467636649704
+    second: projeteis_8
+  - first:
+      213: 2334961803127003979
+    second: projeteis_9
+  - first:
+      213: 526330072444927110
+    second: projeteis_10
+  - first:
+      213: -3133487123722794969
+    second: projeteis_11
+  - first:
+      213: 3092700231945328835
+    second: projeteis_12
+  - first:
+      213: 3270307440438800941
+    second: projeteis_13
+  - first:
+      213: 5078191689471476458
+    second: projeteis_14
+  - first:
+      213: 3522282532240384714
+    second: projeteis_15
+  - first:
+      213: -3184176364306597947
+    second: projeteis_16
+  - first:
+      213: -8105140105394434605
+    second: projeteis_17
+  - first:
+      213: 954238352194384828
+    second: projeteis_18
+  - first:
+      213: 2439792120393948921
+    second: projeteis_19
+  - first:
+      213: -2773959953252762049
+    second: projeteis_20
+  - first:
+      213: -8511451682543039055
+    second: projeteis_21
+  - first:
+      213: 9094728471195667302
+    second: projeteis_22
+  - first:
+      213: -3438186508126633253
+    second: projeteis_23
+  - first:
+      213: 5431594695044353252
+    second: projeteis_24
+  - first:
+      213: 2528490393594128527
+    second: projeteis_25
+  - first:
+      213: 5410220620050552281
+    second: projeteis_26
+  - first:
+      213: -8139471352964498728
+    second: projeteis_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: projeteis_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 431
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542895e2d58fbaef0800000000000000
+      internalID: -95709887965068731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 382
+        width: 106
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf053462464ea74d0800000000000000
+      internalID: -3135943071720320773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 379
+        width: 116
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1600783556a4e720800000000000000
+      internalID: 2874605347118515738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_3
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 372
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edafee5a61a4a080800000000000000
+      internalID: -9177032662442856985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 408
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ddd6e8be16e0290800000000000000
+      internalID: -7922287030163350183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 297
+        width: 113
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63265ac9b89b8ca0800000000000000
+      internalID: -6013544953692150932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 338
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e240134bded5090800000000000000
+      internalID: -8044012001241584106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 281
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507d6ebc9f8394bd0800000000000000
+      internalID: -2645520660584540411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_8
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 344
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee348b626f590e00800000000000000
+      internalID: 1011444467636649704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_9
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 281
+        width: 88
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b9d778363776020800000000000000
+      internalID: 2334961803127003979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 331
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c7faa8966ed4700800000000000000
+      internalID: 526330072444927110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_11
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 331
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7280e3a101e9384d0800000000000000
+      internalID: -3133487123722794969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 319
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c89ed1a97a7bea20800000000000000
+      internalID: 3092700231945328835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 296
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22fbad4a47726d20800000000000000
+      internalID: 3270307440438800941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_14
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 262
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2c948af6c597640800000000000000
+      internalID: 5078191689471476458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_15
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 192
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac260cc1d49a1e030800000000000000
+      internalID: 3522282532240384714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_16
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 210
+        width: 163
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c77f4797788fc3d0800000000000000
+      internalID: -3184176364306597947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_17
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 194
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd413b5402c48f80800000000000000
+      internalID: -8105140105394434605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 117
+        width: 160
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3b99db9b22e3d00800000000000000
+      internalID: 954238352194384828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_19
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 98
+        width: 94
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fed0e5c102ebd120800000000000000
+      internalID: 2439792120393948921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_20
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 104
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3eb53d9e1ae089d0800000000000000
+      internalID: -2773959953252762049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_21
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 172
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd0f135acf31e980800000000000000
+      internalID: -8511451682543039055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_22
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 157
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bcf3ecb57f63e70800000000000000
+      internalID: 9094728471195667302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_23
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 134
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2429f469b1940d0800000000000000
+      internalID: -3438186508126633253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_24
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 142
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecc30ae896e06b40800000000000000
+      internalID: 5431594695044353252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 12
+        width: 101
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f886a20dd90071320800000000000000
+      internalID: 2528490393594128527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_26
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 30
+        width: 144
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d55b964df6f41b40800000000000000
+      internalID: 5410220620050552281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projeteis_27
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 24
+        width: 159
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da3513ede9ca0f80800000000000000
+      internalID: -8139471352964498728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      projeteis_0: -95709887965068731
+      projeteis_1: -3135943071720320773
+      projeteis_10: 526330072444927110
+      projeteis_11: -3133487123722794969
+      projeteis_12: 3092700231945328835
+      projeteis_13: 3270307440438800941
+      projeteis_14: 5078191689471476458
+      projeteis_15: 3522282532240384714
+      projeteis_16: -3184176364306597947
+      projeteis_17: -8105140105394434605
+      projeteis_18: 954238352194384828
+      projeteis_19: 2439792120393948921
+      projeteis_2: 2874605347118515738
+      projeteis_20: -2773959953252762049
+      projeteis_21: -8511451682543039055
+      projeteis_22: 9094728471195667302
+      projeteis_23: -3438186508126633253
+      projeteis_24: 5431594695044353252
+      projeteis_25: 2528490393594128527
+      projeteis_26: 5410220620050552281
+      projeteis_27: -8139471352964498728
+      projeteis_3: -9177032662442856985
+      projeteis_4: -7922287030163350183
+      projeteis_5: -6013544953692150932
+      projeteis_6: -8044012001241584106
+      projeteis_7: -2645520660584540411
+      projeteis_8: 1011444467636649704
+      projeteis_9: 2334961803127003979
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
