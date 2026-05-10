@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: 8db1cd9d613e21a47ab03bb3eca18f4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6362935404616638631
+    second: Cleitin_Feliz_com_Diploma-removebg-preview_0
+  - first:
+      213: 7385283693533929038
+    second: Cleitin_Feliz_com_Diploma-removebg-preview_1
+  - first:
+      213: -655393818841719712
+    second: Cleitin_Feliz_com_Diploma-removebg-preview_2
+  - first:
+      213: -7187998562913847268
+    second: Cleitin_Feliz_com_Diploma-removebg-preview_3
+  - first:
+      213: 6582841935466084699
+    second: Cleitin_Feliz_com_Diploma-removebg-preview_4
+  - first:
+      213: 8724308596840282439
+    second: Cleitin_Feliz_com_Diploma-removebg-preview_5
+  - first:
+      213: 5867465872415323589
+    second: Cleitin_Feliz_com_Diploma-removebg-preview_6
+  - first:
+      213: 5660413501295482136
+    second: Cleitin_Feliz_com_Diploma-removebg-preview_7
+  - first:
+      213: 9126173902342988107
+    second: Cleitin_Feliz_com_Diploma-removebg-preview_8
+  - first:
+      213: -3527631150141781777
+    second: Cleitin_Feliz_com_Diploma-removebg-preview_9
+  - first:
+      213: 1270717469896968452
+    second: Cleitin_Feliz_com_Diploma-removebg-preview_10
+  - first:
+      213: -5152651691545572667
+    second: Cleitin_Feliz_com_Diploma-removebg-preview_11
+  - first:
+      213: 5612753734016238743
+    second: Cleitin_Feliz_com_Diploma-removebg-preview_12
+  - first:
+      213: -3773358337236756208
+    second: Cleitin_Feliz_com_Diploma-removebg-preview_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cleitin_Feliz_com_Diploma-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 566
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a06ee8c900bd4850800000000000000
+      internalID: 6362935404616638631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleitin_Feliz_com_Diploma-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 570
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e139ee36ccd7660800000000000000
+      internalID: 7385283693533929038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleitin_Feliz_com_Diploma-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 566
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cd3ff4bc297e6f0800000000000000
+      internalID: -655393818841719712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleitin_Feliz_com_Diploma-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 82
+        width: 327
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18708304691f3c90800000000000000
+      internalID: -7187998562913847268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleitin_Feliz_com_Diploma-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 552
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b593008ecd3fa5b50800000000000000
+      internalID: 6582841935466084699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleitin_Feliz_com_Diploma-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 517
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7493d890278f21970800000000000000
+      internalID: 8724308596840282439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleitin_Feliz_com_Diploma-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 471
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5fa01bf1d6d6150800000000000000
+      internalID: 5867465872415323589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleitin_Feliz_com_Diploma-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 443
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815da8ad614dd8e40800000000000000
+      internalID: 5660413501295482136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleitin_Feliz_com_Diploma-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 449
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b412897cfcea6ae70800000000000000
+      internalID: 9126173902342988107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleitin_Feliz_com_Diploma-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 433
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8423db8265b0fc0800000000000000
+      internalID: -3527631150141781777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleitin_Feliz_com_Diploma-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 414
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409871b6ece72a110800000000000000
+      internalID: 1270717469896968452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleitin_Feliz_com_Diploma-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 399
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca4c12269a1e78b0800000000000000
+      internalID: -5152651691545572667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleitin_Feliz_com_Diploma-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 396
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79409cf88c184ed40800000000000000
+      internalID: 5612753734016238743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cleitin_Feliz_com_Diploma-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 378
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0199eba959652abc0800000000000000
+      internalID: -3773358337236756208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cleitin_Feliz_com_Diploma-removebg-preview_0: 6362935404616638631
+      Cleitin_Feliz_com_Diploma-removebg-preview_1: 7385283693533929038
+      Cleitin_Feliz_com_Diploma-removebg-preview_10: 1270717469896968452
+      Cleitin_Feliz_com_Diploma-removebg-preview_11: -5152651691545572667
+      Cleitin_Feliz_com_Diploma-removebg-preview_12: 5612753734016238743
+      Cleitin_Feliz_com_Diploma-removebg-preview_13: -3773358337236756208
+      Cleitin_Feliz_com_Diploma-removebg-preview_2: -655393818841719712
+      Cleitin_Feliz_com_Diploma-removebg-preview_3: -7187998562913847268
+      Cleitin_Feliz_com_Diploma-removebg-preview_4: 6582841935466084699
+      Cleitin_Feliz_com_Diploma-removebg-preview_5: 8724308596840282439
+      Cleitin_Feliz_com_Diploma-removebg-preview_6: 5867465872415323589
+      Cleitin_Feliz_com_Diploma-removebg-preview_7: 5660413501295482136
+      Cleitin_Feliz_com_Diploma-removebg-preview_8: 9126173902342988107
+      Cleitin_Feliz_com_Diploma-removebg-preview_9: -3527631150141781777
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
