@@ -41,6 +41,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Boss.unity
     guid: 39fccf449256467ba81485b78ca02672
+  - enabled: 1
+    path: Assets/Scenes/Vitoria_Fase.unity
+    guid: 4e31a8f3043746e488b564c414aa969b
+  - enabled: 1
+    path: Assets/Scenes/Derrota_Fase.unity
+    guid: ab0c464b07eaec04a8a30286f05629c7
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
