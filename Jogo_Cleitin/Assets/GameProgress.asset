@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 053165dfa04d4fe3eaaeae5a5f3b032f, type: 3}
   m_Name: GameProgress
   m_EditorClassIdentifier: Assembly-CSharp::GameProgress
-  bossesDerrotados: 0000000001000000010000000100000001000000
+  bossesDerrotados: 0000000000000000000000000000000000000000
