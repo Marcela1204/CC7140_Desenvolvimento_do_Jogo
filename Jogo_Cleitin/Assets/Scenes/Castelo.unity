@@ -4307,7 +4307,8 @@ MonoBehaviour:
   velocidade: 5
   rb: {fileID: 1502307411}
   animator: {fileID: 1502307412}
-  spriteRenderer: {fileID: 1502307413}
+  projetilPrefab: {fileID: 0}
+  pontoDeDisparo: {fileID: 0}
   velocidadeCaminhada: 5
   velocidadeCorrida: 10
 --- !u!61 &1502307410
