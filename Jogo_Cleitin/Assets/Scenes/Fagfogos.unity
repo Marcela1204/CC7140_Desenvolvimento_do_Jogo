@@ -948,10 +948,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38668ed5b30bc834b9e67f410a2f9167, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Saude
+  bossIndex: 1
+  progress: {fileID: 11400000, guid: bf74e27cb381a2dc1940f80b77d16587, type: 2}
   vidaMaxima: 100
   vidaAtual: 100
   textoVida: {fileID: 1322613188}
-  nomeDaCenaPrincipal: Principal
+  nomeDaCenaPrincipal: Vitoria_Fase
 --- !u!1 &790336539
 GameObject:
   m_ObjectHideFlags: 0
@@ -1954,10 +1956,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38668ed5b30bc834b9e67f410a2f9167, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Saude
+  bossIndex: 0
+  progress: {fileID: 0}
   vidaMaxima: 100
   vidaAtual: 100
   textoVida: {fileID: 1434182442}
-  nomeDaCenaPrincipal: Principal
+  nomeDaCenaPrincipal: Derrota_fase
 --- !u!1 &1618380492
 GameObject:
   m_ObjectHideFlags: 0

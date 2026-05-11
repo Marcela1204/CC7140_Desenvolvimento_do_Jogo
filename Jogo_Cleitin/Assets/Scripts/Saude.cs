@@ -6,6 +6,9 @@ using System.Collections;
 
 public class Saude : MonoBehaviour
 {
+	public int bossIndex; // Defina 0, 1, 2 ou 3 no Inspector
+    public GameProgress progress;
+
     public int vidaMaxima = 100;
     public int vidaAtual;
 
@@ -54,6 +57,8 @@ public class Saude : MonoBehaviour
 
         if (gameObject.CompareTag("Inimigo"))
         {
+		progress.bossesDerrotados[bossIndex] = 1;
+        Debug.Log($"Boss {bossIndex} derrotado!");
             // Inicia a contagem regressiva antes de mudar de cena
             if (spriteRenderer != null) spriteRenderer.enabled = false;
 
@@ -66,7 +71,8 @@ public class Saude : MonoBehaviour
         else if (gameObject.CompareTag("Player"))
         {
             // Lógica opcional se o player morrer (ex: reiniciar fase)
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+            // SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+	    SceneManager.LoadScene(nomeDaCenaPrincipal);
         }
     }
 

@@ -1864,7 +1864,7 @@ GameObject:
   - component: {fileID: 1502307415}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2087,10 +2087,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38668ed5b30bc834b9e67f410a2f9167, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Saude
+  bossIndex: 0
+  progress: {fileID: 0}
   vidaMaxima: 100
   vidaAtual: 0
   textoVida: {fileID: 1755805169}
-  nomeDaCenaPrincipal: Principal
+  nomeDaCenaPrincipal: Derrota_Fase
 --- !u!1 &1607412093
 GameObject:
   m_ObjectHideFlags: 0
@@ -3093,7 +3095,7 @@ GameObject:
   - component: {fileID: 1980531506}
   m_Layer: 0
   m_Name: Feitisac
-  m_TagString: Untagged
+  m_TagString: Inimigo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3315,10 +3317,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38668ed5b30bc834b9e67f410a2f9167, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Saude
+  bossIndex: 2
+  progress: {fileID: 11400000, guid: bf74e27cb381a2dc1940f80b77d16587, type: 2}
   vidaMaxima: 100
   vidaAtual: 0
   textoVida: {fileID: 129412989}
-  nomeDaCenaPrincipal: Principal
+  nomeDaCenaPrincipal: Vitoria_Fase
 --- !u!1 &2030390035
 GameObject:
   m_ObjectHideFlags: 0
