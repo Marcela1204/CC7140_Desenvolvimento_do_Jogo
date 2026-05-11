@@ -12,7 +12,7 @@ public class PortalFinal : MonoBehaviour
         {
             int paginasColetadas = ContarPaginas();
 
-            if (paginasColetadas == 3)
+            if (paginasColetadas == 4)
             {
                 SceneManager.LoadScene("Boss");
             }
